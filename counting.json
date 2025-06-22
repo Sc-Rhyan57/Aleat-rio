@@ -1,12 +1,12 @@
 {
   "845743754782048266": {
     "channelId": "1386206263079206973",
-    "currentNumber": 4,
+    "currentNumber": 5,
     "lastUserId": "896604349311115304",
-    "totalCount": 6,
+    "totalCount": 7,
     "enabled": true,
     "records": {
-      "highest": 3,
+      "highest": 4,
       "fails": 8
     }
   }
