@@ -7,7 +7,7 @@
     "enabled": true,
     "records": {
       "highest": 31,
-      "fails": 25
+      "fails": 26
     }
   }
 }
